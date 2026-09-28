@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, kasztanowce!");
+﻿Console.WriteLine("Witajce, kasztanowce!");
 Console.WriteLine("0 - Start");
 Console.WriteLine("1 - Special");
 Console.WriteLine("2 - Quit");
