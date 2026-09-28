@@ -22,7 +22,7 @@ while (working)
                 break;
             case 2:
                 working=false;
-                Console.WriteLine("Goodbye");
+                Console.WriteLine("Goodbye! See you soon");
                 break;
         }
     }
