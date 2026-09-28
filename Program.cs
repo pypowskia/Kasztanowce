@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, kasztanowce!");
+﻿Console.WriteLine("Hello, jesienne kasztanowce!");
 bool working = true;
 while (working)
 {
